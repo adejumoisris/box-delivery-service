@@ -42,5 +42,5 @@ It is developed in **Java with Spring Boot** as part of an assessment task.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/box-delivery-service.git
+git clone https://github.com/adejumoisris/box-delivery-service.git
 cd box-delivery-service
